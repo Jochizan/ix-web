@@ -1,0 +1,40 @@
+{
+  "animales": [
+    {
+      "nombre": "León",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Lion_snow.jpg",
+      "genero": "Masculino",
+      "habitat": "Savannah"
+    },
+    {
+      "nombre": "Elefante",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Elephant.pair.750pix.jpg",
+      "genero": "Femenino",
+      "habitat": "Selva"
+    },
+    {
+      "nombre": "Tigre",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/5/54/Tigress_at_Jim_Corbett_National_Park.jpg",
+      "genero": "Masculino",
+      "habitat": "Bosque"
+    },
+    {
+      "nombre": "Jirafa",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Giraffa_camelopardalis_angolensis.jpg",
+      "genero": "Femenino",
+      "habitat": "Savannah"
+    },
+    {
+      "nombre": "Mono",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/8/84/Ateles_fusciceps_Colombia.JPG",
+      "genero": "Masculino",
+      "habitat": "Selva"
+    },
+    {
+      "nombre": "Cebra",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Beautiful_Zebra_in_South_Africa.JPG",
+      "genero": "Femenino",
+      "habitat": "Savannah"
+    }
+  ]
+}
